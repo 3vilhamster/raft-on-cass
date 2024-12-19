@@ -1,2 +1,2 @@
 # raft-on-cass
-experimental library for etcd-io/raft cassandra storage
+experimental library for [dragonboat](https://github.com/lni/dragonboat) cassandra storage
